@@ -1,0 +1,661 @@
+2020-11-25 20:02:46 INFO  test:32 - Emre
+2020-11-25 20:04:34 INFO  test:30 - Emre
+2020-11-25 20:04:34 INFO  test:38 - Driver closed.
+2020-11-25 20:04:47 INFO  test:30 - Emre
+2020-11-25 20:04:47 INFO  test:38 - Driver closed
+2020-11-25 20:29:39 INFO  test:24 - Emre
+2020-11-25 20:29:40 INFO  test:40 - Driver Close
+2020-11-25 20:51:04 INFO  test:16 - Emre
+2020-11-25 20:51:05 INFO  test:40 - Driver Close
+2020-11-25 20:59:54 INFO  test:20 - Web application launched
+2020-11-25 20:59:54 INFO  test:26 - Open Page 
+2020-11-25 20:59:54 INFO  test:40 - Driver Close
+2020-11-25 21:09:54 INFO  test:21 - Web application launched
+2020-11-25 21:09:54 INFO  test:33 - Open Page 
+2020-11-25 21:11:40 INFO  test:21 - Web application launched
+2020-11-25 21:11:40 INFO  test:33 - Open Page 
+2020-11-25 21:13:01 INFO  test:21 - Web application launched
+2020-11-25 21:13:01 INFO  test:33 - Open Page 
+2020-11-25 21:13:57 INFO  test:21 - Web application launched
+2020-11-25 21:13:57 INFO  test:34 - Open Page 
+2020-11-25 21:16:04 INFO  test:21 - Web application launched
+2020-11-25 21:16:04 INFO  test:36 - Open Page 
+2020-11-25 21:16:16 ERROR test:31 - Error while clicking webelement : org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button class="giris epey-giris" onclick="giris()" id="adg845">...</button> is not clickable at point (716, 716). Other element would receive the click: <b>...</b>
+  (Session info: chrome=87.0.4280.66)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51454}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a392e02c77e5253503e61d58655a1354
+2020-11-25 21:17:39 INFO  test:21 - Web application launched
+2020-11-25 21:17:39 INFO  test:36 - Open Page 
+2020-11-25 21:17:51 ERROR test:31 - Error while clicking webelement : org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button class="giris epey-giris" onclick="giris()" id="adg845">...</button> is not clickable at point (716, 716). Other element would receive the click: <b>...</b>
+  (Session info: chrome=87.0.4280.66)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51816}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7504c9187a951cd2e87bc6f8fb39ae17
+2020-11-25 21:17:54 INFO  test:47 - Giriş Yapıldı
+2020-11-25 21:20:03 INFO  test:22 - Web application launched
+2020-11-25 21:20:03 INFO  test:36 - Open Page 
+2020-11-25 21:20:42 INFO  test:22 - Web application launched
+2020-11-25 21:20:42 INFO  test:36 - Open Page 
+2020-11-25 21:20:43 INFO  test:47 - Giriş Yapıldı
+2020-11-25 21:20:44 INFO  test:46 - Driver Close
+2020-11-25 21:20:58 INFO  test:22 - Web application launched
+2020-11-25 21:20:58 INFO  test:36 - Open Page 
+2020-11-25 21:20:59 INFO  test:47 - Giriş Yapıldı
+2020-11-25 21:21:00 INFO  test:46 - Driver Close
+2020-11-25 21:21:13 INFO  test:22 - Web application launched
+2020-11-25 21:21:13 INFO  test:36 - Open Page 
+2020-11-25 21:21:32 INFO  test:47 - Giriş Yapıldı
+2020-11-25 21:32:04 INFO  test:22 - Web application launched
+2020-11-25 21:32:04 INFO  test:37 - Open Page 
+2020-11-25 21:32:05 INFO  test:48 - Giriş Yapıldı
+2020-11-25 21:32:41 INFO  test:22 - Web application launched
+2020-11-25 21:32:41 INFO  test:37 - Open Page 
+2020-11-25 21:32:54 INFO  test:48 - Giriş Yapıldı
+2020-11-25 21:45:18 INFO  test:19 - Web application launched
+2020-11-25 21:45:18 INFO  test:37 - Open Page 
+2020-11-25 21:45:19 INFO  test:48 - Giriş Yapıldı
+2020-11-25 21:47:40 INFO  test:49 - Driver Close
+2020-11-25 21:57:58 INFO  test:19 - Web application launched
+2020-11-25 21:57:58 INFO  test:37 - Open Page 
+2020-11-25 21:58:05 INFO  test:48 - Giriş Yapıldı
+2020-11-25 21:58:13 ERROR test:72 - Error while filling field : java.lang.NullPointerException
+2020-11-25 21:58:15 INFO  test:61 - Samsung arandı.
+2020-11-25 21:59:56 INFO  test:19 - Web application launched
+2020-11-25 21:59:56 INFO  test:37 - Open Page 
+2020-11-25 21:59:56 ERROR test:29 - Error while clicking webelement : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#uye_panel"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 280bd5d569c173033af11cb38f96761f
+*** Element info: {Using=id, value=uye_panel}
+2020-11-25 23:55:58 INFO  test:19 - Web application launched
+2020-11-25 23:55:58 INFO  test:37 - Open Page 
+2020-11-25 23:55:59 INFO  test:48 - Giriş Yapıldı
+2020-11-25 23:56:00 INFO  test:48 - Driver Close
+2020-11-25 23:56:31 INFO  test:19 - Web application launched
+2020-11-25 23:56:31 INFO  test:37 - Open Page 
+2020-11-25 23:56:32 INFO  test:48 - Giriş Yapıldı
+2020-11-25 23:56:33 INFO  test:48 - Driver Close
+2020-11-25 23:57:04 INFO  test:19 - Web application launched
+2020-11-25 23:57:04 INFO  test:37 - Open Page 
+2020-11-25 23:57:06 INFO  test:48 - Giriş Yapıldı
+2020-11-25 23:57:07 INFO  test:48 - Driver Close
+2020-11-25 23:57:31 INFO  test:19 - Web application launched
+2020-11-25 23:57:31 INFO  test:37 - Open Page 
+2020-11-25 23:57:39 INFO  test:48 - Giriş Yapıldı
+2020-11-25 23:57:48 ERROR test:72 - Error while filling field : java.lang.NullPointerException
+2020-11-25 23:57:48 INFO  test:61 - Samsung arandı.
+2020-11-25 23:58:04 INFO  test:48 - Driver Close
+2020-11-25 23:58:44 INFO  test:19 - Web application launched
+2020-11-25 23:58:44 INFO  test:37 - Open Page 
+2020-11-26 00:00:07 INFO  test:48 - Giriş Yapıldı
+2020-11-26 00:01:23 INFO  test:19 - Web application launched
+2020-11-26 00:01:23 INFO  test:37 - Open Page 
+2020-11-26 00:01:25 INFO  test:48 - Giriş Yapıldı
+2020-11-26 00:01:28 ERROR test:72 - Error while filling field : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[class='arama genel_arama']"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55636}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 4f03f80fe8a3299548a5330574610d56
+*** Element info: {Using=css selector, value=[class='arama genel_arama']}
+2020-11-26 00:01:28 INFO  test:61 - Samsung arandı.
+2020-11-26 00:01:29 INFO  test:48 - Driver Close
+2020-11-26 00:02:03 INFO  test:19 - Web application launched
+2020-11-26 00:02:03 INFO  test:37 - Open Page 
+2020-11-26 00:02:06 INFO  test:48 - Giriş Yapıldı
+2020-11-26 00:02:15 ERROR test:72 - Error while filling field : java.lang.NullPointerException
+2020-11-26 00:02:15 INFO  test:61 - Samsung arandı.
+2020-11-26 00:02:44 INFO  test:19 - Web application launched
+2020-11-26 00:02:44 INFO  test:37 - Open Page 
+2020-11-26 00:02:47 INFO  test:48 - Giriş Yapıldı
+2020-11-26 00:02:56 ERROR test:72 - Error while filling field : java.lang.NullPointerException
+2020-11-26 00:03:03 INFO  test:61 - Samsung arandı.
+2020-11-26 00:03:17 INFO  test:19 - Web application launched
+2020-11-26 00:03:17 INFO  test:37 - Open Page 
+2020-11-26 00:03:19 INFO  test:48 - Giriş Yapıldı
+2020-11-26 00:03:56 ERROR test:72 - Error while filling field : java.lang.NullPointerException
+2020-11-26 00:03:56 INFO  test:61 - Samsung arandı.
+2020-11-26 00:04:11 INFO  test:19 - Web application launched
+2020-11-26 00:04:11 INFO  test:37 - Open Page 
+2020-11-26 00:04:14 INFO  test:48 - Giriş Yapıldı
+2020-11-26 00:04:17 ERROR test:72 - Error while filling field : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[class='arama genel_arama']"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55906}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 9948a1bed9c199ae5b092ed4a39ca2f0
+*** Element info: {Using=css selector, value=[class='arama genel_arama']}
+2020-11-26 00:04:17 INFO  test:61 - Samsung arandı.
+2020-11-26 00:04:18 INFO  test:48 - Driver Close
+2020-11-26 00:04:35 INFO  test:19 - Web application launched
+2020-11-26 00:04:35 INFO  test:37 - Open Page 
+2020-11-26 00:04:37 INFO  test:48 - Giriş Yapıldı
+2020-11-26 00:04:57 INFO  test:61 - Samsung arandı.
+2020-11-26 00:15:10 INFO  test:21 - Web application launched
+2020-11-26 00:15:10 INFO  test:41 - Open Page 
+2020-11-26 00:15:13 INFO  test:52 - Giriş Yapıldı
+2020-11-26 00:15:17 INFO  test:65 - Samsung arandı.
+2020-11-26 00:15:18 INFO  test:49 - Driver Close
+2020-11-26 00:20:00 INFO  test:22 - Web application launched
+2020-11-26 00:20:00 INFO  test:39 - Open Page 
+2020-11-26 00:20:04 INFO  test:50 - Giriş Yapıldı
+2020-11-26 00:20:09 INFO  test:63 - Samsung arandı.
+2020-11-26 00:20:12 INFO  test:76 - 2 sayfasına gidildi.
+2020-11-26 00:20:12 INFO  test:49 - Driver Close
+2020-11-26 00:20:29 INFO  test:22 - Web application launched
+2020-11-26 00:20:29 INFO  test:39 - Open Page 
+2020-11-26 00:20:31 INFO  test:50 - Giriş Yapıldı
+2020-11-26 00:20:34 ERROR test:75 - Error while filling field : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[class='arama genel_arama']"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56826}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 31a87d39a75bdceccbe3e918f89c3b8b
+*** Element info: {Using=css selector, value=[class='arama genel_arama']}
+2020-11-26 00:20:34 INFO  test:63 - Samsung arandı.
+2020-11-26 00:20:55 INFO  test:49 - Driver Close
+2020-11-26 00:21:18 INFO  test:22 - Web application launched
+2020-11-26 00:21:18 INFO  test:39 - Open Page 
+2020-11-26 00:21:21 INFO  test:50 - Giriş Yapıldı
+2020-11-26 00:21:24 ERROR test:75 - Error while filling field : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[class='arama genel_arama']"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56899}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d5abec0123f58cc51ab5a63ac4a6035d
+*** Element info: {Using=css selector, value=[class='arama genel_arama']}
+2020-11-26 00:21:24 INFO  test:63 - Samsung arandı.
+2020-11-26 00:21:45 INFO  test:49 - Driver Close
+2020-11-26 00:22:07 INFO  test:22 - Web application launched
+2020-11-26 00:22:07 INFO  test:39 - Open Page 
+2020-11-26 00:22:09 INFO  test:50 - Giriş Yapıldı
+2020-11-26 00:22:26 INFO  test:63 - Samsung arandı.
+2020-11-26 00:22:39 INFO  test:76 - 2 sayfasına gidildi.
+2020-11-26 00:22:49 INFO  test:49 - Driver Close
+2020-11-26 00:23:08 INFO  test:22 - Web application launched
+2020-11-26 00:23:08 INFO  test:39 - Open Page 
+2020-11-26 00:23:10 INFO  test:50 - Giriş Yapıldı
+2020-11-26 00:23:13 ERROR test:75 - Error while filling field : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[class='arama genel_arama']"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57029}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0bd357ffd609a22d17c069f8645eb98b
+*** Element info: {Using=css selector, value=[class='arama genel_arama']}
+2020-11-26 00:23:13 INFO  test:63 - Samsung arandı.
+2020-11-26 00:23:35 INFO  test:49 - Driver Close
+2020-11-26 00:26:16 INFO  test:22 - Web application launched
+2020-11-26 00:26:16 INFO  test:39 - Open Page 
+2020-11-26 00:26:18 INFO  test:50 - Giriş Yapıldı
+2020-11-26 00:26:22 INFO  test:64 - Samsung arandı.
+2020-11-26 00:26:23 INFO  test:77 - 2 sayfasına gidildi.
+2020-11-26 00:26:23 INFO  test:49 - Driver Close
+2020-11-26 00:27:01 INFO  test:22 - Web application launched
+2020-11-26 00:27:01 INFO  test:39 - Open Page 
+2020-11-26 00:27:04 INFO  test:50 - Giriş Yapıldı
+2020-11-26 00:27:08 INFO  test:64 - Samsung arandı.
+2020-11-26 00:27:09 INFO  test:77 - 2 sayfasına gidildi.
+2020-11-26 00:27:10 INFO  test:49 - Driver Close
+2020-11-26 00:27:35 INFO  test:22 - Web application launched
+2020-11-26 00:27:35 INFO  test:39 - Open Page 
+2020-11-26 00:27:38 INFO  test:50 - Giriş Yapıldı
+2020-11-26 00:27:42 INFO  test:64 - Samsung arandı.
+2020-11-26 00:27:44 INFO  test:77 - 2 sayfasına gidildi.
+2020-11-26 00:32:14 INFO  test:22 - Web application launched
+2020-11-26 00:32:14 INFO  test:39 - Open Page 
+2020-11-26 00:32:17 INFO  test:50 - Giriş Yapıldı
+2020-11-26 00:32:21 INFO  test:64 - Samsung arandı.
+2020-11-26 00:32:22 INFO  test:50 - Driver Close
+2020-11-26 00:33:33 INFO  test:22 - Web application launched
+2020-11-26 00:33:33 INFO  test:39 - Open Page 
+2020-11-26 00:33:35 INFO  test:50 - Giriş Yapıldı
+2020-11-26 00:33:40 INFO  test:64 - Samsung arandı.
+2020-11-26 00:33:42 INFO  test:80 - 2 sayfasına gidildi.
+2020-11-26 00:33:42 INFO  test:50 - Driver Close
+2020-11-26 00:34:19 INFO  test:22 - Web application launched
+2020-11-26 00:34:19 INFO  test:39 - Open Page 
+2020-11-26 00:34:21 INFO  test:50 - Giriş Yapıldı
+2020-11-26 00:34:26 INFO  test:64 - Samsung arandı.
+2020-11-26 00:34:28 INFO  test:80 - 2 sayfasına gidildi.
+2020-11-26 00:41:01 INFO  test:51 - Driver Close
+2020-11-26 09:22:20 INFO  test:22 - Web application launched
+2020-11-26 09:22:20 INFO  test:39 - Open Page 
+2020-11-26 09:22:23 INFO  test:50 - Giriş Yapıldı
+2020-11-26 09:22:27 INFO  test:64 - Samsung arandı.
+2020-11-26 09:22:29 INFO  test:80 - 2 sayfasına gidildi.
+2020-11-26 09:22:31 INFO  test:57 - Driver Close
+2020-11-26 09:35:45 INFO  test:22 - Web application launched
+2020-11-26 09:35:45 INFO  test:39 - Open Page 
+2020-11-26 09:35:47 INFO  test:50 - Giriş Yapıldı
+2020-11-26 09:35:51 INFO  test:64 - Samsung arandı.
+2020-11-26 09:35:53 INFO  test:80 - 2 sayfasına gidildi.
+2020-11-26 09:36:53 INFO  test:22 - Web application launched
+2020-11-26 09:36:53 INFO  test:39 - Open Page 
+2020-11-26 09:36:54 INFO  test:50 - Giriş Yapıldı
+2020-11-26 09:36:59 INFO  test:64 - Samsung arandı.
+2020-11-26 09:37:01 INFO  test:80 - 2 sayfasına gidildi.
+2020-11-26 09:37:02 INFO  test:95 - Favori button'a tıklandı.
+2020-11-26 09:55:19 INFO  test:22 - Web application launched
+2020-11-26 09:55:19 INFO  test:39 - Open Page 
+2020-11-26 09:55:21 INFO  test:50 - Giriş Yapıldı
+2020-11-26 09:55:26 INFO  test:64 - Samsung arandı.
+2020-11-26 09:55:28 INFO  test:80 - 2 sayfasına gidildi.
+2020-11-26 09:55:29 INFO  test:95 - Favori button'a tıklandı.
+2020-11-26 09:56:10 INFO  test:22 - Web application launched
+2020-11-26 09:56:10 INFO  test:39 - Open Page 
+2020-11-26 09:56:12 INFO  test:50 - Giriş Yapıldı
+2020-11-26 09:56:17 INFO  test:64 - Samsung arandı.
+2020-11-26 09:56:19 INFO  test:80 - 2 sayfasına gidildi.
+2020-11-26 09:56:41 INFO  test:95 - Favori button'a tıklandı.
+2020-11-26 09:57:52 INFO  test:22 - Web application launched
+2020-11-26 09:57:52 INFO  test:39 - Open Page 
+2020-11-26 09:57:54 INFO  test:50 - Giriş Yapıldı
+2020-11-26 09:57:56 INFO  test:58 - Driver Close
+2020-11-26 09:58:14 INFO  test:22 - Web application launched
+2020-11-26 09:58:14 INFO  test:39 - Open Page 
+2020-11-26 09:58:16 INFO  test:50 - Giriş Yapıldı
+2020-11-26 09:58:20 INFO  test:64 - Samsung arandı.
+2020-11-26 09:58:22 INFO  test:80 - 2 sayfasına gidildi.
+2020-11-26 09:58:49 INFO  test:95 - Favori button'a tıklandı.
+2020-11-26 09:59:14 INFO  test:117 - Favorilerim sayfasında olduğu doğrulandı
+2020-11-26 10:14:40 INFO  test:22 - Web application launched
+2020-11-26 10:14:40 INFO  test:40 - Open Page 
+2020-11-26 10:14:42 INFO  test:51 - Giriş Yapıldı
+2020-11-26 10:14:47 INFO  test:65 - Samsung arandı.
+2020-11-26 10:14:48 INFO  test:81 - 2 sayfasına gidildi.
+2020-11-26 10:14:50 INFO  test:96 - Favori button'a tıklandı.
+2020-11-26 10:14:56 INFO  test:59 - Driver Close
+2020-11-26 10:15:25 INFO  test:22 - Web application launched
+2020-11-26 10:15:25 INFO  test:40 - Open Page 
+2020-11-26 10:15:28 INFO  test:51 - Giriş Yapıldı
+2020-11-26 10:15:32 INFO  test:65 - Samsung arandı.
+2020-11-26 10:15:34 INFO  test:81 - 2 sayfasına gidildi.
+2020-11-26 10:15:36 INFO  test:96 - Favori button'a tıklandı.
+2020-11-26 10:18:09 INFO  test:22 - Web application launched
+2020-11-26 10:18:09 INFO  test:40 - Open Page 
+2020-11-26 10:18:12 INFO  test:51 - Giriş Yapıldı
+2020-11-26 10:18:16 INFO  test:65 - Samsung arandı.
+2020-11-26 10:18:18 INFO  test:81 - 2 sayfasına gidildi.
+2020-11-26 10:18:20 INFO  test:96 - Favori button'a tıklandı.
+2020-11-26 10:18:49 INFO  test:22 - Web application launched
+2020-11-26 10:18:49 INFO  test:40 - Open Page 
+2020-11-26 10:18:50 INFO  test:51 - Giriş Yapıldı
+2020-11-26 10:18:55 INFO  test:65 - Samsung arandı.
+2020-11-26 10:18:57 INFO  test:81 - 2 sayfasına gidildi.
+2020-11-26 10:18:58 INFO  test:96 - Favori button'a tıklandı.
+2020-11-26 10:19:25 INFO  test:119 - Favorilerim sayfasında olduğu doğrulandı
+2020-11-26 10:19:50 INFO  test:59 - Driver Close
+2020-11-26 10:23:00 INFO  test:22 - Web application launched
+2020-11-26 10:23:00 INFO  test:40 - Open Page 
+2020-11-26 10:23:02 INFO  test:51 - Giriş Yapıldı
+2020-11-26 10:23:06 INFO  test:65 - Samsung arandı.
+2020-11-26 10:23:08 INFO  test:81 - 2 sayfasına gidildi.
+2020-11-26 10:23:10 INFO  test:96 - Favori button'a tıklandı.
+2020-11-26 10:23:28 INFO  test:119 - Favorilerim sayfasında olduğu doğrulandı
+2020-11-26 10:25:11 INFO  test:140 - Favori ilan görüldü
+2020-11-26 10:25:25 INFO  test:22 - Web application launched
+2020-11-26 10:25:25 INFO  test:40 - Open Page 
+2020-11-26 10:25:27 INFO  test:51 - Giriş Yapıldı
+2020-11-26 10:25:32 INFO  test:65 - Samsung arandı.
+2020-11-26 10:25:34 INFO  test:81 - 2 sayfasına gidildi.
+2020-11-26 10:25:36 INFO  test:96 - Favori button'a tıklandı.
+2020-11-26 10:25:46 INFO  test:119 - Favorilerim sayfasında olduğu doğrulandı
+2020-11-26 10:26:00 INFO  test:140 - Favori ilan görüldü
+2020-11-26 10:26:14 INFO  test:22 - Web application launched
+2020-11-26 10:26:14 INFO  test:40 - Open Page 
+2020-11-26 10:26:16 INFO  test:51 - Giriş Yapıldı
+2020-11-26 10:26:21 INFO  test:65 - Samsung arandı.
+2020-11-26 10:26:22 INFO  test:81 - 2 sayfasına gidildi.
+2020-11-26 10:26:24 INFO  test:96 - Favori button'a tıklandı.
+2020-11-26 10:27:16 INFO  test:119 - Favorilerim sayfasında olduğu doğrulandı
+2020-11-26 10:27:28 INFO  test:134 - Favori ilan bulunamadı.
+2020-11-26 10:28:06 INFO  test:139 - Favori ilan görüldü
+2020-11-26 10:28:33 INFO  test:153 - Samsung Galaxy Note 20Favori ilani silindi
+2020-11-26 10:33:05 INFO  test:22 - Web application launched
+2020-11-26 10:33:05 INFO  test:39 - Open Page 
+2020-11-26 10:33:07 INFO  test:50 - Giriş Yapıldı
+2020-11-26 10:33:10 INFO  test:58 - Driver Close
+2020-11-26 10:33:27 INFO  test:22 - Web application launched
+2020-11-26 10:33:27 INFO  test:39 - Open Page 
+2020-11-26 10:33:29 INFO  test:50 - Giriş Yapıldı
+2020-11-26 10:33:34 INFO  test:64 - Samsung arandı.
+2020-11-26 10:33:35 INFO  test:80 - 2 sayfasına gidildi.
+2020-11-26 10:33:37 INFO  test:95 - Favori button'a tıklandı.
+2020-11-26 10:33:47 INFO  test:118 - Favorilerim sayfasında olduğu doğrulandı
+2020-11-26 10:33:47 INFO  test:140 - Favori ilan görüldü
+2020-11-26 10:33:48 INFO  test:154 - Samsung Galaxy M11Favori ilani silindi
+2020-11-26 10:33:48 INFO  test:171 - Samsung Galaxy M11 olmadığı görüldü...
+2020-11-26 10:33:56 INFO  test:58 - Driver Close
+2020-11-26 10:34:38 INFO  test:22 - Web application launched
+2020-11-26 10:34:38 INFO  test:39 - Open Page 
+2020-11-26 10:34:40 INFO  test:50 - Giriş Yapıldı
+2020-11-26 10:34:42 INFO  test:64 - Samsung arandı.
+2020-11-26 10:35:03 INFO  test:58 - Driver Close
+2020-11-26 10:35:21 INFO  test:22 - Web application launched
+2020-11-26 10:35:21 INFO  test:39 - Open Page 
+2020-11-26 10:35:23 INFO  test:50 - Giriş Yapıldı
+2020-11-26 10:35:28 INFO  test:64 - Samsung arandı.
+2020-11-26 10:35:30 INFO  test:80 - 2 sayfasına gidildi.
+2020-11-26 10:35:31 INFO  test:95 - Favori button'a tıklandı.
+2020-11-26 10:35:42 INFO  test:118 - Favorilerim sayfasında olduğu doğrulandı
+2020-11-26 10:35:42 INFO  test:140 - Favori ilan görüldü
+2020-11-26 10:35:42 INFO  test:154 - Samsung Galaxy Note 20 favori ilani silindi
+2020-11-26 10:35:43 INFO  test:58 - Driver Close
+2020-11-26 12:37:30 INFO  test:22 - Web application launched
+2020-11-26 12:37:30 INFO  test:39 - Open Page 
+2020-11-26 12:37:32 INFO  test:50 - Giriş Yapıldı
+2020-11-26 12:37:37 INFO  test:64 - Samsung arandı.
+2020-11-26 12:37:40 INFO  test:80 - 2 sayfasına gidildi.
+2020-11-26 12:37:41 INFO  test:95 - Favori button'a tıklandı.
+2020-11-26 12:37:52 INFO  test:118 - Favorilerim sayfasında olduğu doğrulandı
+2020-11-26 12:37:52 INFO  test:140 - Favori ilan görüldü
+2020-11-26 12:37:53 INFO  test:154 - Samsung Galaxy Note 20 favori ilani silindi
+2020-11-26 12:37:54 INFO  test:58 - Driver Close
+2020-11-26 12:40:02 INFO  test:22 - Web application launched
+2020-11-26 12:40:02 INFO  test:40 - Open Page 
+2020-11-26 12:40:04 INFO  test:51 - Giriş Yapıldı
+2020-11-26 12:40:09 INFO  test:65 - Samsung arandı.
+2020-11-26 12:40:11 INFO  test:81 - 2 sayfasına gidildi.
+2020-11-26 12:40:13 INFO  test:96 - Favori button'a tıklandı.
+2020-11-26 12:40:14 INFO  test:122 - Favorilerim sayfasında olduğu doğrulandı
+2020-11-26 12:40:14 INFO  test:144 - Favori ilan görüldü
+2020-11-26 12:40:14 INFO  test:158 - Samsung Galaxy Note 20 favori ilani silindi
+2020-11-26 12:40:15 INFO  test:58 - Driver Close
+2020-11-26 12:40:39 INFO  test:22 - Web application launched
+2020-11-26 12:40:39 INFO  test:40 - Open Page 
+2020-11-26 12:40:41 INFO  test:51 - Giriş Yapıldı
+2020-11-26 12:40:47 INFO  test:65 - Samsung arandı.
+2020-11-26 12:40:48 INFO  test:81 - 2 sayfasına gidildi.
+2020-11-26 12:40:50 INFO  test:96 - Favori button'a tıklandı.
+2020-11-26 12:40:51 INFO  test:122 - Favorilerim sayfasında olduğu doğrulandı
+2020-11-26 12:40:51 INFO  test:144 - Favori ilan görüldü
+2020-11-26 12:40:51 INFO  test:158 - Samsung Galaxy Note 20 favori ilani silindi
+2020-11-26 12:40:52 INFO  test:58 - Driver Close
+2020-11-26 12:41:42 INFO  test:22 - Web application launched
+2020-11-26 12:41:42 INFO  test:40 - Open Page 
+2020-11-26 12:41:45 INFO  test:51 - Giriş Yapıldı
+2020-11-26 12:41:50 INFO  test:65 - Samsung arandı.
+2020-11-26 12:41:52 INFO  test:81 - 2 sayfasına gidildi.
+2020-11-26 12:41:54 INFO  test:96 - Favori button'a tıklandı.
+2020-11-26 12:42:02 INFO  test:122 - Favorilerim sayfasında olduğu doğrulandı
+2020-11-26 12:42:03 INFO  test:144 - Favori ilan görüldü
+2020-11-26 12:42:03 INFO  test:158 - Samsung Galaxy Note 20 favori ilani silindi
+2020-11-26 12:42:04 INFO  test:58 - Driver Close
+2020-11-26 12:42:32 INFO  test:22 - Web application launched
+2020-11-26 12:42:32 INFO  test:40 - Open Page 
+2020-11-26 12:42:34 INFO  test:51 - Giriş Yapıldı
+2020-11-26 12:42:39 INFO  test:65 - Samsung arandı.
+2020-11-26 12:42:41 INFO  test:81 - 2 sayfasına gidildi.
+2020-11-26 12:42:43 INFO  test:96 - Favori button'a tıklandı.
+2020-11-26 12:42:44 INFO  test:122 - Favorilerim sayfasında olduğu doğrulandı
+2020-11-26 12:42:44 INFO  test:144 - Favori ilan görüldü
+2020-11-26 12:42:44 INFO  test:158 - Samsung Galaxy Note 20 favori ilani silindi
+2020-11-26 12:43:51 INFO  test:22 - Web application launched
+2020-11-26 12:43:51 INFO  test:40 - Open Page 
+2020-11-26 12:43:53 INFO  test:51 - Giriş Yapıldı
+2020-11-26 12:43:58 INFO  test:65 - Samsung arandı.
+2020-11-26 12:44:01 INFO  test:81 - 2 sayfasına gidildi.
+2020-11-26 12:44:02 INFO  test:96 - Favori button'a tıklandı.
+2020-11-26 12:44:15 INFO  test:122 - Favorilerim sayfasında olduğu doğrulandı
+2020-11-26 12:44:15 INFO  test:144 - Favori ilan görüldü
+2020-11-26 12:44:16 INFO  test:158 - Samsung Galaxy Note 20 favori ilani silindi
+2020-11-26 12:44:35 INFO  test:175 - Samsung Galaxy Note 20 olmadığı görüldü...
+2020-11-26 12:53:44 INFO  test:22 - Web application launched
+2020-11-26 12:53:44 INFO  test:40 - Open Page 
+2020-11-26 12:53:47 INFO  test:51 - Giriş Yapıldı
+2020-11-26 12:53:53 INFO  test:65 - Samsung arandı.
+2020-11-26 12:53:55 INFO  test:81 - 2 sayfasına gidildi.
+2020-11-26 12:54:02 INFO  test:96 - Favori button'a tıklandı.
+2020-11-26 12:54:14 INFO  test:122 - Favorilerim sayfasında olduğu doğrulandı
+2020-11-26 12:54:51 INFO  test:22 - Web application launched
+2020-11-26 12:54:51 INFO  test:40 - Open Page 
+2020-11-26 12:54:52 INFO  test:51 - Giriş Yapıldı
+2020-11-26 12:54:57 INFO  test:65 - Samsung arandı.
+2020-11-26 12:54:59 INFO  test:81 - 2 sayfasına gidildi.
+2020-11-26 12:55:01 INFO  test:96 - Favori button'a tıklandı.
+2020-11-26 13:05:36 INFO  test:22 - Web application launched
+2020-11-26 13:05:36 INFO  test:40 - Open Page 
+2020-11-26 13:07:41 INFO  test:22 - Web application launched
+2020-11-26 13:07:41 INFO  test:40 - Open Page 
+2020-11-26 13:08:23 INFO  test:22 - Web application launched
+2020-11-26 13:08:24 INFO  test:40 - Open Page 
+2020-11-26 13:09:59 INFO  test:22 - Web application launched
+2020-11-26 13:09:59 INFO  test:40 - Open Page 
+2020-11-26 13:12:31 INFO  test:22 - Web application launched
+2020-11-26 13:12:31 INFO  test:40 - Open Page 
+2020-11-26 13:13:18 INFO  test:52 - Giriş Yapıldı
+2020-11-26 13:13:32 INFO  test:22 - Web application launched
+2020-11-26 13:13:32 INFO  test:40 - Open Page 
+2020-11-26 13:13:45 INFO  test:52 - Giriş Yapıldı
+2020-11-26 13:22:13 INFO  test:22 - Web application launched
+2020-11-26 13:22:13 INFO  test:40 - Open Page 
+2020-11-26 13:22:33 INFO  test:52 - Giriş Yapıldı
+2020-11-26 13:24:03 INFO  test:22 - Web application launched
+2020-11-26 13:24:03 INFO  test:40 - Open Page 
+2020-11-26 13:24:09 ERROR test:32 - Error while clicking webelement : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[data-cy*='login-button']"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51851}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 2f13b281837a6ffbb0f9e74ae1dc8396
+*** Element info: {Using=css selector, value=[data-cy*='login-button']}
+2020-11-26 13:24:46 INFO  test:22 - Web application launched
+2020-11-26 13:24:46 INFO  test:40 - Open Page 
+2020-11-26 13:24:47 ERROR test:32 - Error while clicking webelement : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[data-cy*='login-button']"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51966}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 57fa26ab56f6f337d73a78787c818bb8
+*** Element info: {Using=css selector, value=[data-cy*='login-button']}
+2020-11-26 13:25:54 INFO  test:22 - Web application launched
+2020-11-26 13:25:54 INFO  test:40 - Open Page 
+2020-11-26 13:25:56 ERROR test:32 - Error while clicking webelement : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[data-cy*='login-button']"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52077}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 433684239fb1724f114f155ad3178caf
+*** Element info: {Using=css selector, value=[data-cy*='login-button']}
+2020-11-26 13:26:30 INFO  test:22 - Web application launched
+2020-11-26 13:26:30 INFO  test:40 - Open Page 
+2020-11-26 13:26:36 INFO  test:52 - Giriş Yapıldı
+2020-11-26 13:26:48 INFO  test:66 - Samsung arandı.
+2020-11-26 13:32:10 INFO  test:22 - Web application launched
+2020-11-26 13:32:10 INFO  test:40 - Open Page 
+2020-11-26 13:32:17 INFO  test:52 - Giriş Yapıldı
+2020-11-26 13:32:32 INFO  test:66 - Samsung arandı.
+2020-11-26 13:32:33 INFO  test:183 - Arama sayfasında olduğu dogrulandi
+2020-11-26 13:34:38 INFO  test:22 - Web application launched
+2020-11-26 13:34:38 INFO  test:40 - Open Page 
+2020-11-26 13:34:45 INFO  test:52 - Giriş Yapıldı
+2020-11-26 13:34:58 INFO  test:66 - Samsung arandı.
+2020-11-26 13:35:01 INFO  test:183 - Arama sayfasında olduğu dogrulandi
+2020-11-26 13:36:38 INFO  test:22 - Web application launched
+2020-11-26 13:36:38 INFO  test:40 - Open Page 
+2020-11-26 13:36:44 INFO  test:52 - Giriş Yapıldı
+2020-11-26 13:36:52 INFO  test:66 - Samsung arandı.
+2020-11-26 13:36:54 INFO  test:183 - Arama sayfasında olduğu dogrulandi
+2020-11-26 13:39:19 INFO  test:22 - Web application launched
+2020-11-26 13:39:19 INFO  test:40 - Open Page 
+2020-11-26 13:39:25 INFO  test:52 - Giriş Yapıldı
+2020-11-26 13:39:37 INFO  test:66 - Samsung arandı.
+2020-11-26 13:39:41 INFO  test:183 - Arama sayfasında olduğu dogrulandi
+2020-11-26 13:39:53 INFO  test:82 - 2 sayfasına gidildi.
+2020-11-26 13:41:54 INFO  test:22 - Web application launched
+2020-11-26 13:41:54 INFO  test:40 - Open Page 
+2020-11-26 13:41:56 ERROR test:32 - Error while clicking webelement : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[data-cy*='login-button']"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54350}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 267e4852776385a9763d35586097f4e5
+*** Element info: {Using=css selector, value=[data-cy*='login-button']}
+2020-11-26 13:42:27 INFO  test:22 - Web application launched
+2020-11-26 13:42:27 INFO  test:40 - Open Page 
+2020-11-26 13:42:34 INFO  test:52 - Giriş Yapıldı
+2020-11-26 13:42:37 INFO  test:66 - Samsung arandı.
+2020-11-26 13:42:37 INFO  test:183 - Arama sayfasında olduğu dogrulandi
+2020-11-26 13:42:41 INFO  test:82 - 2 sayfasına gidildi.
+2020-11-26 13:47:48 INFO  test:22 - Web application launched
+2020-11-26 13:47:48 INFO  test:40 - Open Page 
+2020-11-26 13:47:54 INFO  test:52 - Giriş Yapıldı
+2020-11-26 13:47:58 INFO  test:66 - Samsung arandı.
+2020-11-26 13:47:58 INFO  test:188 - Arama sayfasında olduğu dogrulandi
+2020-11-26 13:48:01 INFO  test:82 - 2 sayfasına gidildi.
+2020-11-26 13:48:19 INFO  test:98 - Favori button'a tıklandı.
+2020-11-26 13:51:05 INFO  test:22 - Web application launched
+2020-11-26 13:51:05 INFO  test:40 - Open Page 
+2020-11-26 13:51:08 ERROR test:32 - Error while clicking webelement : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[data-cy*='login-button']"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55315}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a6b1d91c45ab125f715a48e0b0457e93
+*** Element info: {Using=css selector, value=[data-cy*='login-button']}
+2020-11-26 13:51:29 INFO  test:22 - Web application launched
+2020-11-26 13:51:29 INFO  test:40 - Open Page 
+2020-11-26 13:51:35 INFO  test:52 - Giriş Yapıldı
+2020-11-26 13:51:39 INFO  test:66 - Samsung arandı.
+2020-11-26 13:51:39 INFO  test:188 - Arama sayfasında olduğu dogrulandi
+2020-11-26 13:51:44 INFO  test:82 - 2 sayfasına gidildi.
+2020-11-26 13:53:01 INFO  test:22 - Web application launched
+2020-11-26 13:53:01 INFO  test:40 - Open Page 
+2020-11-26 13:53:07 INFO  test:52 - Giriş Yapıldı
+2020-11-26 13:53:11 INFO  test:66 - Samsung arandı.
+2020-11-26 13:53:11 INFO  test:188 - Arama sayfasında olduğu dogrulandi
+2020-11-26 13:53:15 INFO  test:82 - 2 sayfasına gidildi.
+2020-11-26 13:53:34 INFO  test:100 - Favori button'a tıklandı.
+2020-11-26 13:55:04 INFO  test:22 - Web application launched
+2020-11-26 13:55:04 INFO  test:40 - Open Page 
+2020-11-26 13:55:10 INFO  test:52 - Giriş Yapıldı
+2020-11-26 13:55:14 INFO  test:66 - Samsung arandı.
+2020-11-26 13:55:14 INFO  test:184 - Arama sayfasında olduğu dogrulandi
+2020-11-26 13:55:18 INFO  test:82 - 2 sayfasına gidildi.
+2020-11-26 13:55:46 INFO  test:22 - Web application launched
+2020-11-26 13:55:46 INFO  test:40 - Open Page 
+2020-11-26 13:55:52 INFO  test:52 - Giriş Yapıldı
+2020-11-26 13:55:57 INFO  test:66 - Samsung arandı.
+2020-11-26 13:55:58 INFO  test:184 - Arama sayfasında olduğu dogrulandi
+2020-11-26 13:56:01 INFO  test:82 - 2 sayfasına gidildi.
+2020-11-26 13:56:23 INFO  test:96 - Ürün zaten favorilerde.
+2020-11-26 13:56:43 ERROR test:56 - Error while filling field : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[data-cy*='login-button']"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55944}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 74467a3585fd96140e87ec2aff318560
+*** Element info: {Using=css selector, value=[data-cy*='login-button']}
+2020-11-26 13:57:18 INFO  test:22 - Web application launched
+2020-11-26 13:57:18 INFO  test:40 - Open Page 
+2020-11-26 13:57:23 INFO  test:52 - Giriş Yapıldı
+2020-11-26 13:57:27 INFO  test:66 - Samsung arandı.
+2020-11-26 13:57:27 INFO  test:184 - Arama sayfasında olduğu dogrulandi
+2020-11-26 13:57:30 INFO  test:82 - 2 sayfasına gidildi.
+2020-11-26 13:57:56 INFO  test:96 - Ürün zaten favorilerde.
+2020-11-26 13:58:16 ERROR test:56 - Error while filling field : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[title='Giriş Yap']"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56200}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 03709b0acc8da5ce62c0412ff4f66c7f
+*** Element info: {Using=css selector, value=[title='Giriş Yap']}
+2020-11-26 13:59:52 INFO  test:22 - Web application launched
+2020-11-26 13:59:52 INFO  test:40 - Open Page 
+2020-11-26 13:59:59 INFO  test:52 - Giriş Yapıldı
+2020-11-26 14:00:02 INFO  test:66 - Samsung arandı.
+2020-11-26 14:00:02 INFO  test:184 - Arama sayfasında olduğu dogrulandi
+2020-11-26 14:00:05 INFO  test:82 - 2 sayfasına gidildi.
+2020-11-26 14:00:25 INFO  test:96 - Ürün zaten favorilerde.
+2020-11-26 14:04:19 INFO  test:22 - Web application launched
+2020-11-26 14:04:19 INFO  test:40 - Open Page 
+2020-11-26 14:04:25 INFO  test:52 - Giriş Yapıldı
+2020-11-26 14:04:28 INFO  test:66 - Samsung arandı.
+2020-11-26 14:04:28 INFO  test:184 - Arama sayfasında olduğu dogrulandi
+2020-11-26 14:04:32 INFO  test:82 - 2 sayfasına gidildi.
+2020-11-26 14:04:41 INFO  test:96 - Ürün zaten favorilerde.
+2020-11-26 14:07:44 INFO  test:22 - Web application launched
+2020-11-26 14:07:44 INFO  test:40 - Open Page 
+2020-11-26 14:07:51 INFO  test:52 - Giriş Yapıldı
+2020-11-26 14:07:56 INFO  test:66 - Samsung arandı.
+2020-11-26 14:07:56 INFO  test:180 - Arama sayfasında olduğu dogrulandi
+2020-11-26 14:08:00 INFO  test:82 - 2 sayfasına gidildi.
+2020-11-26 14:08:03 INFO  test:96 - Ürün zaten favorilerde.
+2020-11-26 14:08:29 INFO  test:121 - Favori sayfasında olduğu doğrulandı
+2020-11-26 14:16:10 INFO  test:22 - Web application launched
+2020-11-26 14:16:10 INFO  test:40 - Open Page 
+2020-11-26 14:16:17 INFO  test:52 - Giriş Yapıldı
+2020-11-26 14:16:20 INFO  test:66 - Samsung arandı.
+2020-11-26 14:16:20 INFO  test:181 - Arama sayfasında olduğu dogrulandi
+2020-11-26 14:16:24 INFO  test:82 - 2 sayfasına gidildi.
+2020-11-26 14:16:29 INFO  test:99 - Favori button'a tıklandı.
+2020-11-26 14:16:32 INFO  test:122 - Favori sayfasında olduğu doğrulandı
+2020-11-26 14:16:32 INFO  test:142 - Favori ilan görüldü
+2020-11-26 14:16:33 INFO  test:157 - Samsung Galaxy A01 Dual 16GB Mavi (Samsung Türkiye Garantili) favori ilani silindi
+2020-11-26 14:16:34 INFO  test:174 - Samsung Galaxy A01 Dual 16GB Mavi (Samsung Türkiye Garantili) olmadığı görüldü...
+2020-11-26 14:19:11 INFO  test:22 - Web application launched
+2020-11-26 14:19:11 INFO  test:40 - Open Page 
+2020-11-26 14:19:17 INFO  test:52 - Giriş Yapıldı
+2020-11-26 14:19:20 INFO  test:66 - Samsung arandı.
+2020-11-26 14:19:20 INFO  test:181 - Arama sayfasında olduğu dogrulandi
+2020-11-26 14:19:24 INFO  test:82 - 2 sayfasına gidildi.
+2020-11-26 14:19:28 INFO  test:99 - Favori button'a tıklandı.
+2020-11-26 14:19:32 INFO  test:122 - Favori sayfasında olduğu doğrulandı
+2020-11-26 14:19:32 INFO  test:142 - Favori ilan görüldü
+2020-11-26 14:19:33 INFO  test:157 - Samsung Galaxy A01 Dual 16GB Mavi (Samsung Türkiye Garantili) favori ilani silindi
+2020-11-26 14:19:33 INFO  test:174 - Samsung Galaxy A01 Dual 16GB Mavi (Samsung Türkiye Garantili) olmadığı görüldü...
+2020-11-26 14:20:14 INFO  test:22 - Web application launched
+2020-11-26 14:20:14 INFO  test:40 - Open Page 
+2020-11-26 14:20:17 ERROR test:32 - Error while clicking webelement : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[data-cy*='login-button']"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58617}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a46c97f701d5bdd7258459fcc9af5f56
+*** Element info: {Using=css selector, value=[data-cy*='login-button']}
+2020-11-26 14:20:44 INFO  test:22 - Web application launched
+2020-11-26 14:20:44 INFO  test:40 - Open Page 
+2020-11-26 14:20:47 ERROR test:32 - Error while clicking webelement : org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[data-cy*='login-button']"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NIRVANA', ip: '192.168.1.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\emrek\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58687}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: ae31c55050e8337da5154913228dc3b8
+*** Element info: {Using=css selector, value=[data-cy*='login-button']}
